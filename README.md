@@ -1,4 +1,4 @@
-ecom008_13211701
+RAPHAEL DE OLIVEIRA JUCÁ
 ================
 
 Repositório  da disciplina de Estrutura de Dados ECOm088
